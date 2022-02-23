@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Clothiers reply to the Dutch interloper, and reasons for a Hamburgh Company</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33484</idno>
+            <idno type="STC">Wing C4735B</idno>
+            <idno type="STC">ESTC R7951</idno>
+            <idno type="EEBO-CITATION">11802262</idno>
+            <idno type="OCLC">ocm 11802262</idno>
+            <idno type="VID">49394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 22:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Clothiers reply to the Dutch interloper, and reasons for a Hamburgh Company</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clothing trade --  England.</term>
+               <term>Wool industry --  England --  Societies, etc.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49394:1"/>
+            <head>
+               <hi>The</hi> Clothiers REPLY <hi>to the</hi> Dutch Interloper, <hi>and</hi> REASONS <hi>for a</hi> Hamburgh <hi>Company.</hi>
+            </head>
+            <p>WHEN above Two Hundred of the moſt conſiderable Clothiers in <hi>England</hi> of the Counties of <hi>Wilts</hi> and <hi>Glouceſter,</hi> (upon Conſidera<g ref="char:EOLhyphen"/>tion of the late Impoſition of Guineas at exceeding advanc'd Prizes, Exaction of Meaſure, intollerable bad Debts, and full Trial of this Merchant-Allien) are Petitioning the Parliament to give all Incouragement to <hi>Engliſh</hi> Merchants to Export our Woollen-Manufactures to <hi>Germany, Flanders,</hi> and <hi>Holland;</hi> to find a <hi>Dutch</hi> Interloper in the Diſguize of a Clothier, addreſſing himſelf to an <hi>Engliſh</hi> Parliament for an equal Liberty in the higheſt Part of our Commerce with the Native Subject; nay, impudently affirm<g ref="char:EOLhyphen"/>ing, that there is no need of an <hi>Engliſh</hi> Merchant or <hi>Hamburgh</hi> Company; for that he is ſo much at <hi>England</hi>'s Devotion, to take Care of that Part of our Merchandize, and ſpare us that Charge; is too manifeſt a piece of Flattery, to paſs in a Kingdom enrich'd with ſo ma<g ref="char:EOLhyphen"/>ny valuable Benefits, and chiefly ſecur'd by Navigation.</p>
+            <p>
+               <hi>He introduceth himſelf by way of Anſwer to a certain Paper, Intituled, An Humble Repreſentation of the State of our Woollen Manufactures; and moſt readily concurs with the Repreſenter, that our Woollen Manufactures are miſerably debas'd, that the meaſures of Cloth ought to be regulated, and the goodneſs of our Ma<g ref="char:EOLhyphen"/>nufactures kept to a Standard, and ſeems fairly to offer his Guardian-ſhip in theſe Particulars.</hi>
+            </p>
+            <p>That we may not Split our Intereſt twice upon the ſame Rock; I will aſſert, <hi>Firſt,</hi> That our Woollen Manufactures have been debaſed thro' the Management of theſe Interlopers; Commiſſions to lower the Price of Goods having been always ſent over, which has forc'd the Maker to make his Goods worſe to ſecure a living Profit. Extraordinary meaſure have been Exacted, which has occaſioned extraordinary ſtraining. And before the Year 1663. When this Trade was carried on by <hi>Engliſh</hi> Merchants, Cloth was kept to a good Making, and no way falſified.</p>
+            <p>
+               <hi>But he deſires that theſe wholeſome Regulations may be Eſtabliſhed by the Wiſdom of the Parliament.</hi>
+            </p>
+            <p>In the Third and Fourth Year of <hi>Edward</hi> the Sixth, when our Trade to theſe Parts was carried on by the Foreign Merchants of the <hi>Still-yard;</hi> and our Manufactures much debaſed: A Law was made for the true making of Cloth, and in this Law there was an Injunction upon every Clothier to make the Letter E. Crown'd upon each Cloth to ſhew the Reformation, whilſt the Trade remain'd in the Hands of theſe Foreign Merchants. But the Nation at that Time was ſo far from receiving a Benefit from this Law, that our Manufactures became more debas'd.</p>
+            <p>In the Fifth and Sixth Year of this Reign, the Guardianſhip of our Woollen Manufactures was committed to the <hi>Hamburgh</hi> Company, and theſe Fo<g ref="char:EOLhyphen"/>reigners excluded; and a Law was made, in which there is this Clauſe; <hi>That during the ſpace of Two Years, the Letter E Crown'd, ſhall not be made into any Cloth, to diſtinguiſh the bad Cloth from Good;</hi> and the Clothing Trade flouriſht for many Years under their Management.</p>
+            <p>He tells us next. <hi>If our Woollen Manufactures are not render'd Cheap at Foreign Markets, all Regulations will fail; and that the</hi> Hamburgh <hi>Company are the means to render them Dear.</hi>
+            </p>
+            <p>To ſuffer our Woollen Manufactures to be clogged with any unneceſſary Charge, is doubtleſs Prejudicial; and during ſuch Time, that this Trade was wholly carried on by the <hi>Hamburgh</hi> Company, there were no Factors or Wooll-Broggers, in which reſpect Cloth was render'd Cheaper abroad: But to perſwade us, that it is our Intereſt to Sell our Woollen Manufactures Cheap to Foreigners, has in it more <hi>Dutch</hi> then <hi>Engliſh;</hi> the better Price through good Management the Merchant gets abroad, the better Price the Clothier receives for his Cloth, and the better Price the Grower gets for his Wooll.</p>
+            <p>
+               <hi>But the having but one Seller of Allom, favours of Monopoly; and the</hi> Hamburgh <hi>Company has been, and would be if encouraged, the greateſt Monopoly that has been known.</hi>
+            </p>
+            <p>The <hi>Hamburgh</hi> Company in Queen <hi>Elizabeth</hi>'s Reign conſiſted of Four Thouſand Members, each Member Trading with his own Stock, and their Regulations in Trade moſt agreeable to the Publick Good; they were limited unto Two Shipings a Year by a Law in the firſt Year of Queen <hi>Elizabeth;</hi> which was no way Prejudicial to the leſſer Clothier, if the Wealthy Merchant put off his Buying, until the Shipping, he was ſure to pay ſomething the Dearer for Cloth, which occaſioned conſtant Buying; ſo that in this regulated Company, conſiſting of ſo many Members, Trading with their own Stock, the Proof of a Monopoly is not ſo clear, as where there is but one Seller of Allom.</p>
+            <p>He tells us next, <hi>That whilſt the Trade was limited to the</hi> Hamburgh <hi>Company only, ſeveral Woollen Manufactures were ſet up at</hi> Liege, Viviers, Cologne, Sileſia, <hi>&amp;c. Which during, a free Trade have been diſcouraged.</hi>
+            </p>
+            <p>When theſe Woollen Manufactures have been actually ſet up, ſince the <hi>Hamburgh</hi> Company was invaded in their Rights, in the Year 1663. and very much increas'd at <hi>Zell,</hi> and <hi>Hanover,</hi> at <hi>Dusburge,</hi> and in ſeveral Places in <hi>Holland</hi> ſince the Revolution; as is well known to ſeveral Gentlemen and Merchants, who have Travell'd abroad.</p>
+            <p>He ſhews next, <hi>That</hi> England <hi>reaps no Benefit, by the trifling and petty Immunities of the</hi> Hamburgh <hi>Company abroad.</hi>
+            </p>
+            <p>To enumerate the Priviledges which the <hi>Engliſh</hi> enjoy at <hi>Hamburgh</hi> would be tedious, where the <hi>Engliſh</hi> enjoy more Priviledges then the Burghers themſelves. <hi>Callice</hi> in former Time was the great Mart for <hi>Engliſh</hi> Goods, which was Loſt in the Reign of Queen <hi>Mary,</hi> to her great Grief and Sor<g ref="char:EOLhyphen"/>row; this Loſs was in ſome meaſure made good by Queen <hi>Elizabeth</hi> in the Settlement of Trade upon theſe advantagious Terms at <hi>Hamburgh</hi> the Inlett of <hi>Germany,</hi> this being a Free Town bordering upon the Empire, <hi>Denmark</hi> and <hi>Sweden;</hi> if any Difference ſhould happen between us and any of theſe Princes, it would no way Influence our Trade, and the Charge to maintain this Company is ſo ſmall, that it is ſufficiently Compenſated by the Privi<g ref="char:EOLhyphen"/>ledges we enjoy at <hi>Hamburgh</hi> in the eaſe of Cuſtoms, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>But</hi> (ſays he) <hi>Experience ſhew'd that more Goods was Exported in three Years after the Free Trade, than in three Years before;</hi> That Merchants were diſcou<g ref="char:EOLhyphen"/>raged from Trading to the heighth, from the Apprehenſions of the Difficulties we were falling under at that Time, is not unlikely; a greater Conſump<g ref="char:EOLhyphen"/>tion was occaſioned by our Armies abroad, vaſt Quantities of Woollen Goods were ſent thro' <hi>Hamburgh</hi> into <hi>Italy</hi> and other Parts, the lowneſs of the Exchange, and other temporary Reaſons might be aſſigned for this increaſe, and I am ſure that the Exportation is very low at preſent.</p>
+            <p>As to what is Aſſerted in the Third Article. <hi>That the numbers of Buyers are increas'd, that the Clothiers Sell for ready Money, and at better Prizes than when the Trade was confin'd to the</hi> Hamburgh <hi>Company only, and Wooll one Third Part Dearer than it was at that Time;</hi> is contrary to plain Demonſtration. When this Trade was carried on by the <hi>Hamburgh</hi> Company only before the Year 1663. <hi>Cotſwold</hi> Wooll was currently Sold at Twenty Eight Shil<g ref="char:EOLhyphen"/>lings <hi>per</hi> Tod, the Cloth now Sold for Six Shillings <hi>per</hi> Yard was Sold for Eight, and the Clothier had more ready Money for Cloth in thoſe Days, than now; all which is well in Memory, and can be proved; and the <hi>Germans</hi> came conſtantly down, and bought vaſt Quantities of our Goods at <hi>Hamburgh.</hi>
+            </p>
+            <p>As to the Conſtitution of the Company which he complains of, if the Wiſdom of this Parliament, by inſpecting their Charter and By-Laws, can find out a more Effectual Way to ſecure the Trade to <hi>Engliſh</hi> Merchants, and make it more National, it would be grateful to the preſent Members, as well as thoſe to be admitted.</p>
+            <p>The <hi>Hamburgh</hi> Company has been the Fence and Guard of the <hi>Engliſh</hi> Merchandize and Navigation between us and <hi>Holland, Flanders,</hi> and <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> from the Eighth Year of <hi>Henry</hi> the Fourth, until the beginning of King <hi>Charles</hi> the Second; and upon a juſt compare between our numerous Flocks of Sheep in our ſpacious <hi>Downs,</hi> which afford ſuch a variety of valuable Manufactures, our <hi>Fullers Earth, Coperas, Allom,</hi> peculiar Commodities to the Improvement of our Woollen Manufactures; our <hi>Leather, Lead, Tin,</hi> &amp;c. and the frigid Enjoyments of the Eaſterlings there, can be no wonder at this ſtruggle for a Free Trade.</p>
+            <div type="part">
+               <head>
+                  <hi>The Reaſons for a</hi> Hamburgh <hi>Company.</hi>
+               </head>
+               <p n="1">I. THE Plauſible Argument for a Free Trade was, <hi>That it would increaſe the number of Buyers.</hi> Whereas Experience now demonſtrates the contra<g ref="char:EOLhyphen"/>ry, and that we have only changed Hands, and got a <hi>Dutch</hi> Merchant inſtead of an <hi>Engliſh;</hi> nay the Trade for <hi>Germany</hi> and <hi>Holland</hi> as we are well informed, is fall'n into the Hands of very few Foreign Buyers.</p>
+               <p n="2">II. <hi>That hereby more Money would be brought into the Cloth-Trade.</hi> When it is manifeſt, greater Credit has been given with Cloth to theſe Foreigners, then to <hi>Engliſh</hi> Merchants, and more Loſſes. A Stock of Cloth is now kept upon the Clothiers Hand to match Patterns, which was formerly kept by the <hi>Engliſh</hi> Merchant in his Ware-Houſe abroad, which is another hardſhip upon the Maker.</p>
+               <p n="3">III. <hi>That the Conſumption of</hi> Engliſh <hi>Cloth would hereby be increas'd abroad.</hi>
+               </p>
+               <p>The decay of our Trade, and general Complaints from all Clothing Parts, does Evidence the contrary: Our Woollen Manufactures are at this Time much debaſed, and vaſt Quantities of our Wooll Exported of late Years.</p>
+               <p>
+                  <hi>From all theſe Conſiderations it is humbly hoped, that the Wiſdom of the Parliament will put the Guardianſhip of our Woollen Manufactures into the Hands of</hi> Engliſh <hi>Merchants, who muſt be the trueſt Friends to our</hi> Engliſh <hi>Intereſt.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
